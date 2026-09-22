@@ -76,4 +76,5 @@ The docs link a Discord server and Tavily runs a community forum; the GitHub org
 
 Tavily gets facts into your agent; it does not produce media. If the next step after a search is "make a cover image for this summary" or "turn this script into a voiceover", [try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=tavily-api-key&utm_content=readme-top&utm_term=tier-r). You keep the Tavily key for retrieval and add a single model API for generation instead of integrating each model vendor separately.
 
+
 _Last reviewed: 2026-09-22_
